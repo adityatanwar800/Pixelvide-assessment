@@ -17,3 +17,9 @@ II. For showing python program output on page i used Django framework.
     I created a simple HTML page and a table to show my output in 8 groups.
     Then I print the Teams from the list of Group.
     I also created a button for REFRESH (every time when a user click on REFRESH button the page will reload and it will show the output with different teams in each group).
+
+
+TO RUN THE PROGRAM 
+--Required Python3, Django
+   python manage.py runserver <---- Execute this command in your Editor's terminal.
+ 

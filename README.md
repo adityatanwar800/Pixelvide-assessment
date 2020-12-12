@@ -20,6 +20,6 @@ II. For showing python program output on page i used Django framework.
 
 
 TO RUN THE PROGRAM 
---Required Python3, Django
-   python manage.py runserver <---- Execute this command in your Editor's terminal.
+--Required Python3, Django.
+-->  python manage.py runserver <---- Execute this command in your Editor's terminal.
  
